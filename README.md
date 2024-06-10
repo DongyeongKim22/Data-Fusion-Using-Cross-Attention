@@ -1,2 +1,2 @@
 # Data-Fusion-Using-Cross-Attention
-![Example Image](Untitled presentation.png)
+![Example Image](cross_attention_poster.png)
